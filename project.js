@@ -156,7 +156,8 @@ if (balance <= 0 ){
 
 const playAgain = prompt("Do you want to play again (y/n)?");
 
-if (playAgain != "y") break;
+if (playAgain != "y")
+break;
 }
 };
 
